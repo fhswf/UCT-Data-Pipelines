@@ -60,3 +60,9 @@ Die Skripte transformieren die Daten in das verwendete Data-Warehouse-Schema und
 | `ECO_PASSWORD` | Für ECOSTRESS | Passwort des NASA-Earthdata-Kontos |
 | `ERS_USERNAME` | Für Landsat | USGS-Benutzername |
 | `ERS_TOKEN` | Für Landsat | USGS-API-Token |
+
+## Lizenz
+
+Copyright 2026 Urban Climate Twin Fachhochschule Südwestfalen
+
+Lizenziert unter der [Apache License 2.0](LICENSE).
